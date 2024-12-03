@@ -1,0 +1,18 @@
+name: Update badges
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-credly-data:
+    name: Update Json data with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Credly data - Hugo
+        uses: w0obi/w0obi@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: w0obi/w0obi
+          CREDLY_USER: username.6b037083
+          CREDLY_DIR: data/credly.json
+          BADGE_SIZE: 32
