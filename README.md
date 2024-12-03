@@ -35,3 +35,10 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0obi)](https://github.com/anuraghazra/github-readme-stats)
+
+# Credly Badges
+![Cybersecurity Awareness](https://images.credly.com/size/32x32/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob)
+![Lifelong Learning](https://images.credly.com/size/32x32/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)
+![Certiprof Growth Summit](https://images.credly.com/size/32x32/images/eee28d36-fd09-4a07-8f24-b584c56b9a9d/blob)
+
+
