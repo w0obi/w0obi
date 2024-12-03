@@ -23,12 +23,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=abia17)](https://solved.ac/profile/abia17)
-
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/profile/abia17">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=abia17" alt="Solved.ac 프로필">
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=abia17&theme=warm" alt="Mazandi 프로필" style="margin-left: 10px;">
+</div>
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=abia17&theme=warm) -->
-<img src="http://mazandi.herokuapp.com/api?handle=abia17&theme=warm"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0obi)](https://github.com/anuraghazra/github-readme-stats)
