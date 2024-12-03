@@ -12,7 +12,7 @@ jobs:
         uses: w0obi/credly-crawler@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: w0obi/w0obi.github.io
+          REPOSITORY: w0obi/w0obi
           CREDLY_USER: w0obi
           CREDLY_DIR: data/credly.json
           BADGE_SIZE: 32
