@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Credly data - Hugo
-        uses: w0obi/w0obi@main
+        uses: kaonmir/credly-crawler@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: w0obi/w0obi
