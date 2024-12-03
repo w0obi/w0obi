@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Hugo Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+    .main-content {
+      padding: 20px;
+    }
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      margin-top: 20px;
+    }
+    .badge {
+      margin: 10px;
+    }
+    .badge img {
+      width: 32px;
+      height: 32px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Hugo Website</h1>
+  </header>
+
+  <div class="main-content">
+    <h2>Badges</h2>
+    <div class="badges">
+      <!-- 배지 목록을 가져오기 위한 Partial 호출 -->
+      {{ partial "badges.html" . }}
+    </div>
+  </div>
+
+  <footer style="text-align: center; padding: 10px; background-color: #333; color: white;">
+    <p>Powered by Hugo</p>
+  </footer>
+</body>
+</html>
