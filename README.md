@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <br>
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <br><br>
 
 <div style="display: flex; align-items: center;">
   <a href="https://solved.ac/profile/abia17">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=abia17" alt="Solved.ac 프로필">
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=abia17&theme=warm" alt="Mazandi 프로필" style="margin-left: 10px;">
+  <!--<img src="http://mazandi.herokuapp.com/api?handle=abia17&theme=warm" alt="Mazandi 프로필" style="margin-left: 10px;"> -->
 </div>
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=abia17&theme=warm) -->
 
