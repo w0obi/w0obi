@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=w0obi's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HyeonJung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjinueng%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=true"/></a>
 <br>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=abia17&theme=warm) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0obi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJung)](https://github.com/anuraghazra/github-readme-stats)
 
 # Credly Badges
 ![Cybersecurity Awareness](https://images.credly.com/size/32x32/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob)
