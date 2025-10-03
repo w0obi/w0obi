@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=abia17)](https://solved.ac/profile/abia17)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0obi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0obi&custom_title=HyeonJeong)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <!-- # Credly Badges
